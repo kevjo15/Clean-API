@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRu0XbjM5Tt2KKaKGAsh0UWPiFNJeJS43ihSHIOogBlpsc7C7Tr96LhxY1hzQx3eZh2nZRRw/cUyoPSA4N10Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevjo\\source\\Rest-API\\Clean-API\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevjo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
